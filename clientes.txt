@@ -1,0 +1,3 @@
+Nombre: Gabriela 
+Rol: Desarrollo de m¢dulo de clientes 
+Descripci¢n: Este archivo contiene la informaci¢n de los clientes de la tienda. 
